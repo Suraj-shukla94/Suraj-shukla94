@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently working on learning coding,  tech skills and experience. <br>I'm looking for collaborate on making any tech based company or any software. <br>I'm currently learning coding languages , Gen AI , finance. <br>Fun fact is that I love to work with group and love to make imagination idea in real life .
+- 🔭 I am currently developing my skills in programming, emerging technologies, and finance, with a strong focus on building practical experience.
+- 🌱 My learning areas include software development, Generative AI, and financial systems.
+
+- 👯 I am actively seeking opportunities to collaborate on innovative tech projects, including software development and early-stage startup ideas.
+- ⚡ I enjoy working in team environments and have a strong interest in transforming conceptual ideas into real-world solutions.
 
 
 ## 🌐 Socials:
@@ -20,19 +24,3 @@ I'm currently working on learning coding,  tech skills and experience. <br>I'm l
 ---
 [![](https://komarev.com/ghpvc/?username=Suraj-shukla94&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**Suraj-shukla94/Suraj-shukla94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
